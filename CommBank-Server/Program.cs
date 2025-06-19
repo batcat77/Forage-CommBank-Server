@@ -28,6 +28,10 @@ builder.Services.AddSingleton(tagsService);
 builder.Services.AddSingleton(transactionsService);
 builder.Services.AddSingleton(usersService);
 
+//Register seeder
+builder.Services.AddSingleton(mongoDatabase);
+builder.Services.AddSingleton<MongoDbSeeder>();
+
 builder.Services.AddCors();
 
 var app = builder.Build();
@@ -48,6 +52,13 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+//Run seeding before the app starts
+using (var scope = app.Services.CreateScope())
+{
+    var seeder = scope.ServiceProvider.GetRequiredService<MongoDbSeeder>();
+    await seeder.SeedAsync();
+}
 
 app.Run();
 

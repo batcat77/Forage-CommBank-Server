@@ -1,0 +1,142 @@
+[
+  {
+    "Id": "62a3a284d07648900df72860",
+    "TransactionType": "Debit",
+    "Amount": 135.39,
+    "DateTime": "2022-06-11T01:39:00Z",
+    "GoalId": null,
+    "TagIds": ["62a39d27025ca1ba8f1f1c1e"],
+    "Description": "Whole Foods",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a2ded07648900df72861",
+    "TransactionType": "Debit",
+    "Amount": 139.26,
+    "DateTime": "2022-05-31T07:40:30Z",
+    "GoalId": null,
+    "TagIds": ["62a39d27025ca1ba8f1f1c1e"],
+    "Description": "Whole Foods",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a2ebd07648900df72862",
+    "TransactionType": "Debit",
+    "Amount": 26.39,
+    "DateTime": "2022-06-11T01:40:43Z",
+    "GoalId": null,
+    "TagIds": ["62a39d42025ca1ba8f1f1c1f"],
+    "Description": "Chipotle",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a2ecd07648900df72863",
+    "TransactionType": "Debit",
+    "Amount": 21.9,
+    "DateTime": "2022-05-31T07:40:30Z",
+    "GoalId": null,
+    "TagIds": ["62a39d42025ca1ba8f1f1c1f"],
+    "Description": "Chipotle",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a316d07648900df72864",
+    "TransactionType": "Credit",
+    "Amount": 5622.81,
+    "DateTime": "2022-06-11T01:41:26Z",
+    "GoalId": null,
+    "TagIds": ["62a39d4e025ca1ba8f1f1c20"],
+    "Description": "Dropbox",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a318d07648900df72865",
+    "TransactionType": "Credit",
+    "Amount": 5622.92,
+    "DateTime": "2022-05-31T07:40:30Z",
+    "GoalId": null,
+    "TagIds": ["62a39d4e025ca1ba8f1f1c20"],
+    "Description": "Dropbox",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a323d07648900df72866",
+    "TransactionType": "Credit",
+    "Amount": 1439.18,
+    "DateTime": "2022-06-11T01:41:39Z",
+    "GoalId": null,
+    "TagIds": ["62a39d4e025ca1ba8f1f1c20"],
+    "Description": "Fencer",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a324d07648900df72867",
+    "TransactionType": "Credit",
+    "Amount": 1439.89,
+    "DateTime": "2022-05-31T07:40:30Z",
+    "GoalId": null,
+    "TagIds": ["62a39d4e025ca1ba8f1f1c20"],
+    "Description": "Fencer",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a337d07648900df72868",
+    "TransactionType": "Debit",
+    "Amount": 44.52,
+    "DateTime": "2022-06-11T01:41:59Z",
+    "GoalId": null,
+    "TagIds": ["62a39d5a025ca1ba8f1f1c21"],
+    "Description": "Gas",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a338d07648900df72869",
+    "TransactionType": "Debit",
+    "Amount": 44.13,
+    "DateTime": "2022-05-31T07:40:30Z",
+    "GoalId": null,
+    "TagIds": ["62a39d5a025ca1ba8f1f1c21"],
+    "Description": "Gas",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a344d07648900df7286a",
+    "TransactionType": "Debit",
+    "Amount": 1500,
+    "DateTime": "2022-06-11T01:42:12Z",
+    "GoalId": null,
+    "TagIds": ["62a39d63025ca1ba8f1f1c22"],
+    "Description": "Coinbase",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a344d07648900df7286b",
+    "TransactionType": "Debit",
+    "Amount": 1500,
+    "DateTime": "2022-05-31T07:40:30Z",
+    "GoalId": null,
+    "TagIds": ["62a39d63025ca1ba8f1f1c22"],
+    "Description": "Coinbase",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a348d07648900df7286c",
+    "TransactionType": "Debit",
+    "Amount": 1500,
+    "DateTime": "2022-06-11T01:42:17Z",
+    "GoalId": null,
+    "TagIds": ["62a39d63025ca1ba8f1f1c22"],
+    "Description": "Titan",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3a349d07648900df7286d",
+    "TransactionType": "Debit",
+    "Amount": 1500,
+    "DateTime": "2022-05-31T07:40:30Z",
+    "GoalId": null,
+    "TagIds": ["62a39d63025ca1ba8f1f1c22"],
+    "Description": "Titan",
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  }
+]

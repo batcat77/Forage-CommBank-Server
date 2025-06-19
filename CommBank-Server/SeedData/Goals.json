@@ -1,0 +1,46 @@
+[
+  {
+    "Id": "62a3f587102e921da1253d32",
+    "Name": "House Down Payment",
+    "TargetAmount": 100000,
+    "TargetDate": "2024-12-15T00:00:00Z",
+    "Balance": 73501.82,
+    "Created": "2022-06-11T02:33:10Z",
+    "TransactionIds": null,
+    "TagIds": null,
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3f5e0102e921da1253d33",
+    "Name": "Tesla Model Y",
+    "TargetAmount": 60000,
+    "TargetDate": "2022-09-01T00:00:00Z",
+    "Balance": 43840.02,
+    "Created": "2022-06-11T02:34:40Z",
+    "TransactionIds": null,
+    "TagIds": null,
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a3f62e102e921da1253d34",
+    "Name": "Trip to London",
+    "TargetAmount": 3500,
+    "TargetDate": "2022-08-02T00:00:00Z",
+    "Created": "2022-06-11T02:35:58Z",
+    "Balance": 753.89,
+    "TransactionIds": null,
+    "TagIds": null,
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  },
+  {
+    "Id": "62a61945fa15f1cd18516a5f",
+    "Name": "Trip to NYC",
+    "TargetAmount": 800,
+    "TargetDate": "2023-12-10T00:00:00Z",
+    "Balance": 0,
+    "Created": "2022-06-12T17:37:45Z",
+    "TransactionIds": null,
+    "TagIds": null,
+    "UserId": "62a29c15f4605c4c9fa7f306"
+  }
+]
